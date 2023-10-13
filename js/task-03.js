@@ -26,3 +26,5 @@ const galleryMarkup = images
   .join('');
 
 gallery.insertAdjacentHTML('beforeend', galleryMarkup);
+
+galleryMarkup(images);
