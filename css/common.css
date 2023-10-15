@@ -38,6 +38,6 @@ ul {
 }
 
 .gallery-image {
-  max-width: 400px;
-  max-height: 260px;
+  width: 400px;
+  height: 260px;
 }
